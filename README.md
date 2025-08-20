@@ -12,9 +12,9 @@ You need to have [PostgreSQL](https://www.postgresql.org) installed on your devi
 - Generate a database about celestial bodies
 
 ## Installation
-1. Open a terminal and clone this repo with the command: `git clone https://github.com/ameluc-ahognidje/periodic-table-database.git`,
-2. Then use this command to go in the cloned folder: `cd periodic-table-database`,
-3. Import the database dump with `psql -U postgres -d periodic_table -f path-to-file/periodic_table.sql`,
+1. Open a terminal and clone this repo with the command: `git clone https://github.com/ameluc-ahognidje/celestial-bodies-database.git`,
+2. Then use this command to go in the cloned folder: `cd celestial-bodies-database`,
+3. Import the database dump with `psql -U postgres -d universe -f path-to-file/universe.sql`,
 4. Connect/launch the postgre/the database
 
 ## About
